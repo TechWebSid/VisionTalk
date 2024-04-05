@@ -8,12 +8,12 @@ export const sidebarLinks = [
   {
     imgURL: '/icons/upcoming.svg',
     route: '/upcoming',
-    label: 'Upcoming',
+    label: 'Upcoming Meetings',
   },
   {
     imgURL: '/icons/previous.svg',
     route: '/previous',
-    label: 'Previous',
+    label: 'Previous Meetings',
   },
   {
     imgURL: '/icons/Video.svg',
